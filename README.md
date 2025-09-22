@@ -6,11 +6,8 @@ It includes data collection, data wrangling, exploratory data analysis (EDA), SQ
 
 ## Repository Structure
 - data/ – Raw and cleaned datasets  
-- notebooks/ – Jupyter notebooks with analysis  
-- src/ – Python helper functions  
-- sql/ – SQL queries  
+- notebooks/ – Jupyter notebooks with analysis   
 - figures/ – Static plots and charts  
-- maps/ – Folium maps  
 - dash/ – Plotly Dash app  
 - presentation/ – Final presentation (PPTX + PDF)  
 
